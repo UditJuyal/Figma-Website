@@ -1,0 +1,370 @@
+*{margin: 0; padding: 0;}
+
+header{
+    width: 100%;
+    height: 20vh;
+    
+}
+
+.navsection img{
+  width:40px;
+  height:50px;
+  padding-left: 3rem;
+}
+
+ ul {
+    list-style-type: none;
+    padding-left: 400px;
+    display: flex;
+    justify-content :space-around;
+    align-items: center;
+    font-size: 22px;
+  }
+
+ul button{
+width:100px;
+height:50px;
+color:white;
+border-radius:8px;
+background-color: black;
+border: 2px solid black;
+}
+
+.front{
+    text-align: center;
+    font-size: 40px;
+}
+
+.front h6{
+    font-size: 20px;
+    padding:15px;
+    color:black;
+}
+
+.front h1{
+  font-size: 120px;
+  
+}
+
+.but{
+    display:flex; justify-content: center;
+    font-size: 23px;
+}
+
+.but button{
+    width:200px;
+    height:50px;
+    color:white;
+    background-color: black;
+    border-radius: 8px; 
+    font-size:20px;
+}
+
+.bgimg{
+    padding-left: 127px;
+    padding-top:50px;
+    width: 100rem;
+}
+
+.bgimg img{
+  width: 68rem;
+}
+
+
+.icn{
+   
+    font-size: 35px;
+    display: flex; justify-content: space-around;
+    padding:20px;
+    padding-left:220px;
+}
+
+.cust{
+    align-items: center;
+    display: flex; justify-content: center;     
+}
+
+.cust button{
+  width:150px;
+  height:30px;
+  color:black;
+  background-color: white;
+  border: 4px solid black; 
+  font-weight: bold;
+}
+
+.des{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      padding:40px;
+      font-size: 200%;
+      padding-right: 220px;
+      width:80%;
+      
+}
+
+.des img{
+  width: 160%;
+}
+
+.ex button{
+    width:200px;
+    height:50px;
+    color:black;
+    background-color: white;
+    border: 4px solid black; 
+    font-weight: bold; 
+  }
+
+  .more{
+    height:300px;
+    width:100%;
+    color:white;
+    background-color:black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.more img {
+    border-radius: 30%;
+   
+  }
+
+.con{
+    padding-left: 80px;
+}
+
+.full{
+  width:100%;
+  height:140%;
+  color:black;
+  background-color:#fac32df6;
+
+
+}
+
+.yel{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 200%; 
+  padding-right:20%;
+}
+
+.yel img{
+  width:160%;
+  
+}
+
+.x button{
+width:200px;
+height:50px;
+color:black;
+background-color:#fac32df6;
+border: 4px solid black; 
+font-weight: bold;
+}
+
+.leav{
+  width:100%;
+  height:200%;
+  color:black;
+  background-color:#fac32df6;
+    
+}
+
+.yl img{
+  width:200%; 
+}
+
+.yl{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 200%;
+}
+
+.tea{
+  padding-left: 25%;
+}
+
+.y button{
+  width: 200px;
+  height:50px;
+  color:black;
+  background-color: #fac32df6;
+  border: 4px solid black; 
+  font-weight: bold;
+    
+}
+
+.im{
+  width:100%;
+  height: 300px;
+  color:black;
+  background-color:lightgrey;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+   
+}
+
+.im img {
+    border-radius: 30%;
+   
+  }
+
+.cont{
+    padding-left: 30px;
+    font-size: 200%;
+}
+
+.cc{
+    width:100%;
+    height:300%;
+    color:black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 200%;
+
+  }
+  
+  .cc img{
+    width: 160%;
+  
+    
+  }
+
+  .l{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+    padding-right: 20%;
+   
+  }
+  
+
+.z button{
+  width:200px;
+  height:50px;
+  color:black;
+  border: 4px solid black;
+  font-weight: bold;
+}
+
+.gg{
+  width:100%;
+  height:300px;
+  color:black;
+  background-color:green;
+  display:flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.gg img {
+    border-radius: 30%;
+   
+  }
+
+.conte{
+    padding-left: 80px;
+    font-size: 200%;
+}
+.end{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+
+
+}
+
+.si{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 150%;
+  
+}
+
+.si button{
+    border-radius: 6px;
+    width:200px;
+    height:30px;
+    border: 2px solid black 
+    
+}
+
+.si h6{
+    padding-left: 90%;
+}
+
+.si input{
+    border-radius: 6px;
+    width:200px;
+    height:30px;
+    border: 2px solid black 
+}
+
+
+.cr button{
+    background-color: black;
+    color:white;
+    border-radius: 6px;
+    font-size: 80%;
+   
+  }
+
+.link a{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 14px;
+}
+
+.log span{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+
+}
+
+.re span{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+}
+
+.pol span{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+}
+
+
+.footer{
+    width:100%;
+    height:100%;   
+ 
+
+}
+
+.foot{
+    
+    display:flex;
+    justify-content: space-around;
+    padding-right: 13%;
+    list-style-type:none;
+    
+}
+
+
